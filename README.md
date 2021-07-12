@@ -71,7 +71,6 @@ Hingga saat ini, R terus berkembang secara pesat seiring dengan populernya â€
     <!-- <br /> -->
 4. [Fundamental Data Visualization using R](https://github.com/ladyayasophia/Data-Visualization-using-R-BootCamp-Data-Science-DQLab/blob/main/Materi/Fundamental%20Data%20Visualization%20using%20R.r)
 
-
 ## Project - Analisis Data COVIT-19 di Indonesia :
 
 <!-- <br /> -->
